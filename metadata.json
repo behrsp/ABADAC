@@ -1,0 +1,6 @@
+{
+  "name": "ABADÁ-Capoeira - Portal & Acervo",
+  "description": "Plataforma versátil para comunidade ABADÁ-Capoeira com streaming de músicas, letras, vídeos, galeria, eventos, aniversariantes e graduações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
